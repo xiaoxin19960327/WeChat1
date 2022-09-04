@@ -1,0 +1,61 @@
+﻿##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+
+{
+"app_id": "wx02aa133e59cc440c",
+
+"app_secret": "de0dee5c092e62ea1314d87ed5e711a2",
+
+
+"template_id": "2tqtK03yzezkmfSyQGypfvonCVCTed2WB3dayrn-CyI",
+
+"user_id": ["o8wQU6Tav2xpQf5jypT6w-cRisuI"],
+
+"user_id": ["o8wQU6bRqD965zE4XNpivof3Iuro" ],
+
+
+"C_ShengFen": "辽宁",
+"C_ChengShi": "大连沙河口区",
+
+"S_XingZuo": "射手座",
+
+
+"S_Love": "2022-07-26",
+
+"birthday1": "1996-11-28",
+
+
+"C_String01": "努力奔跑只为遇见美好的你",
+
+"C_String02": "人间于此，欢喜是你。",
+
+"C_String03": "遇见你时，我闻到了花香，连天上的月亮都沉甸甸落了下来，化作你来时所踏地光",
+
+
+
+天气预报
+"API_TQYB":"ef617b22f6f2785b58041ff9add50a3c",
+
+星座运势
+"API_XZYS":"ef617b22f6f2785b58041ff9add50a3c",
+
+
+早安心语
+"API_ZAXY":"ef617b22f6f2785b58041ff9add50a3c",
+
+晚安心语
+"API_WAXY":"请替换为自己申请的 API接口",
+
+
+舔狗日记
+"API_TGRJ":"ef617b22f6f2785b58041ff9add50a3c",
+
+土味情话
+"API_TWQH":"ef617b22f6f2785b58041ff9add50a3c"
+}
